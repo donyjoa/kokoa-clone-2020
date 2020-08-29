@@ -1,8 +1,8 @@
-/* 구글폰트로 폰트사이즈 조정 */
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
-
 /* css 리셋 */
 @import "reset.css";
+
+/* 구글폰트로 폰트사이즈 조정 */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
 
 /* 전체 사항 */
 @import "variables.css";

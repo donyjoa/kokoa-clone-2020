@@ -16,3 +16,12 @@
 .settings__setting-column:last-child {
   color: var(--grey);
 }
+
+.settings__setting-column {
+  display: flex;
+  align-items: center;
+}
+
+.more-space {
+  margin-left: 5px;
+}

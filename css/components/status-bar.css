@@ -6,6 +6,7 @@
   display: flex;
   justify-content: center;
   padding: 5px 3px;
+  background-color: white;
 }
 
 /* 아래는 시계를 가운데로 맞추기 위함 시작 */
